@@ -4,12 +4,10 @@ JOBCANの打刻を行うアプリケーション
 
 以下の手順を元にご利用ください。
 
-/// --------------------------------------
 <環境>
-※ mac
-※ python 2.7.10
-※ chromedriver 77.0.3865.40
-/// --------------------------------------
+・mac
+・python 2.7.10
+・chromedriver 77.0.3865.40
 
 1. https://github.com/tocchimittsu/mery へアクセス。
 2. 緑のボタン(Clone or download)をクリックする。
