@@ -9,7 +9,7 @@ JOBCANの打刻を行うアプリケーション
 ・python 2.7.10
 ・chromedriver 77.0.3865.40
 
-1. https://github.com/tocchimittsu/dakoku へアクセス。
+1. https://github.com/kuroroblog/dakoku へアクセス。
 2. 緑のボタン(Clone or download)をクリックする。
 3. DownLoad Zipをクリックして、ダウンロードする。
 4. chromedriver, pythonのダウンロードを行う。(chromedriverのダウンロード : https://qiita.com/lemtosh469/items/da86d1ce919d458a8d8d)
